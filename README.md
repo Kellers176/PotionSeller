@@ -1,5 +1,5 @@
 # PotionSeller
-Production 2 Project that my team and I made in Unreal using Visual Scripting
+This is a Production 2 project that my team and I created in Unreal using Blueprints. Our team decided to create a platform shop-management game about potion making and alchemy. The player is a young apprentice and his teacher has accidentally turned himself into gold. As the apprentice, you must take over the shop and turn him back into his normal self. The apprentice must learn new potions while fulfilling customers orders.
 
 To Open (Need to download Unreal Engine to use):
 
